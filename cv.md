@@ -11,7 +11,8 @@
 ## About Me
 ========================
 
-After working for 2 years in a cosmetics store, I learned to notice the beauty in the little things. The magical world of cosmetics gave me the ability to take a structured approach to my work, for which I received the Employee of the Month award. Also, the experience in the company for the production of security systems helped to develop such soft skills as the skill of conducting product presentations, teamwork. I was working on my own project to automate the collection of customer needs in the field of a software product that consolidates all security systems of the facility. Developed a design layout in Figma. Now I want to apply all the previously acquired skills and master new ones in the field of frontend development.
+My experience in the field of security systems has allowed me to improve professional skills such as presentations, analytical and critical thinking, and teamwork. As a presale engineer, my tasks were: analyzing the competitive market, conducting product presentations for customers, as well as calculating and optimizing security solutions at facilities.
+I also developed a “Questionnaire layout” project in Figma. This project will automate and speed up the calculation of solutions for customers.
 
 ## Skills
 ========================
