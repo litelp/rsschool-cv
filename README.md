@@ -1,1 +1,1 @@
-# rsschool-cv
+https://litelp.github.io/rsschool-cv/
