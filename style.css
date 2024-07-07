@@ -15,15 +15,15 @@ html {
 }
 
 /* Remove default margin in favour of better control in authored CSS */
-body, 
-h1, 
-h2, 
-h3, 
-h4, 
+body,
+h1,
+h2,
+h3,
+h4,
 p,
-figure, 
-blockquote, 
-dl, 
+figure,
+blockquote,
+dl,
 dd {
   margin: 0;
 }
@@ -52,9 +52,9 @@ label {
 }
 
 /* Balance text wrapping on headings */
-h1, 
+h1,
 h2,
-h3, 
+h3,
 h4 {
   text-wrap: balance;
 }
@@ -73,9 +73,9 @@ picture {
 }
 
 /* Inherit fonts for inputs and buttons */
-input, 
+input,
 button,
-textarea, 
+textarea,
 select {
   font: inherit;
 }
@@ -119,11 +119,17 @@ textarea:not([rows]) {
     src: url('../fonts/darker-grotesque-v8-latin-800.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
   }
 
+
+
+.body-container {
+  width: 1300px;
+  margin: auto;
+}
+
 .main-container {
   display: flex;
   text-align: center;
-  width: 1300px;
-  margin-left: 250px;
+  width: 100%;
   font-family: "Darker Grotesque", "Arial", sans-serif;
   font-size: 25px;
   background-color: #FFF8F1;
@@ -144,8 +150,28 @@ textarea:not([rows]) {
   z-index: 1;
   width: 1300px;
   height: 450px;
-  margin-left: 250px;
+  font-family: "Darker Grotesque", "Arial", sans-serif;
   background-color: #BFB3B0;
+}
+
+.menu {
+  display: flex;
+  margin-right: 50px;
+  justify-content: flex-end;
+  list-style-type: none;
+}
+
+.menu li {
+  margin: 0 10px;
+  font-size: 20px;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
+.menu a:hover {
+  cursor: pointer;
 }
 
 .contact-list {
@@ -231,9 +257,9 @@ h3 {
 }
 
 .footer-container {
-  width: 1300px;
-  margin-left: 250px;
-  background-color: #FFF8F1; 
+  width: 100%;
+  font-family: "Darker Grotesque", "Arial", sans-serif;
+  background-color: #FFF8F1;
 }
 
 .different-color {
